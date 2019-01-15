@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookSDKSample</string>
+    <string name="facebook_app_id">227020968203235</string>
+    <string name="fb_login_protocol_scheme">fb2344438518901568</string>
+</resources>
